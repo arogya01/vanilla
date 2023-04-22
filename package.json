@@ -1,0 +1,25 @@
+{
+  "name": "vanilla",
+  "version": "1.0.0",
+  "description": "easy-peasy conversion of pdf files to epub ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arogya01/vanilla.git"
+  },
+  "author": "arogya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arogya01/vanilla/issues"
+  },
+  "homepage": "https://github.com/arogya01/vanilla#readme",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "commander": "^10.0.1",
+    "conf": "^11.0.1"
+  }
+}
